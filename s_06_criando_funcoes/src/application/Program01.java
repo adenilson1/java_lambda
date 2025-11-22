@@ -13,6 +13,7 @@ public class Program01 {
 
 		Locale.setDefault(Locale.US);
 
+
 		List<Product> list = new ArrayList<Product>();
 
 		list.add(new Product("Tv", 900.00));
